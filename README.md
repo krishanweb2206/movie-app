@@ -1,6 +1,34 @@
-# Getting Started with Create React App
+A Movie Application website using REACT JS, REDUX.(Omdb api)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Tools and libraries used
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width=200><img src="https://everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png" width=125><img src="https://img-a.udemycdn.com/course/750x422/1934362_ca3c.jpg" width=200><img src="https://vegibit.com/wp-content/uploads/2018/07/JSON-Web-Token-Authentication-With-Node.png" width=200><img src="https://ourcodeworld.com/public-media/articles/articleocw-562bb367bbee4.png" width=200>
+1. React
+2. Redux
+3. Socket.io
+4. JWT-Decode
+5. Jquery
+
+## Features and Screenshots
+### 1. Front Component (Entry page)
+<img src="https://github.com/krishanweb2206/Social/blob/main/src/Screenshots/4.JPG" width=500>
+
+### 2. Login Component
+<img src="https://github.com/krishanweb2206/Social/blob/main/src/Screenshots/2.JPG" width=500>
+
+### 3. SignUp Component
+<img src="https://github.com/krishanweb2206/Social/blob/main/src/Screenshots/3.JPG" width=500>
+
+### 4. Chat and Friends components shows up after signing in
+<img src="https://github.com/parikshit223933/SocialOrzix/blob/master/src/images/4.PNG" width=500>
+
+### 5. Fully functional chat box component
+<img src="https://github.com/krishanweb2206/Social/blob/main/src/Screenshots/6.JPG" width=300>
+
+### 6. SearchBar Component for searching users
+<img src="https://github.com/parikshit223933/SocialOrzix/blob/master/src/images/5.PNG" width=500>
+
+### 7. User profile component and functionality for adding or removing a user as a friend
+<img src="https://github.com/parikshit223933/SocialOrzix/blob/master/src/images/6.PNG" width=200>
 
 ## Available Scripts
 
